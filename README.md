@@ -10,8 +10,8 @@ email:  steveac at usp dot br
 
 Research Interests:
 
-- Natural Language processing
 - Graph Neural Networks, Dynamic Graphs
+- Natural Language processing
 - Machine Learning
 
 ---
@@ -24,7 +24,7 @@ Research Interests:
 
 | Degree | Institution | Area | Status |
 |---------|-------------|------|--------|
-| PhD in Computer Science | University of São Paulo (USP) | Machine Learning & Dynamic Graphs | Ongoing |
+| PhD candidate in Computer Science | University of São Paulo (USP) | Machine Learning & Dynamic Graphs | Ongoing |
 | M.Sc. in Computer Science | Federal University of São Carlos (UFSCar) | Artificial Intelligence Methods| Completed |
 | B.Sc. in Computer Science | Universidad Católica San Pablo | Computer Science | Completed |
 
@@ -46,7 +46,7 @@ Research Interests:
 
 | Project | Venue | Description | Status| Materials |
 |----------|-------|-------------|---------|----------|
-| Master's Dissertation | ICMLA| Enriched Time series with Textual data | Closed | **[Paper](https://ieeexplore.ieee.org/abstract/document/9680035)**  |
+| Master's Dissertation | ICMLA| Enriched Time series with Textual data | Completed | **[Paper](https://ieeexplore.ieee.org/abstract/document/9680035)**  |
 
 ---
 
@@ -54,6 +54,6 @@ Research Interests:
 
 | Project | Organization | Description | Status |
 |----------|--------------|-------------|----------|
-| **[Track Particles](https://github.com/stonescenter/track-ml)** |SPRACE | Applying Machine Learning techiques for Track Particle reconstruction in the HEP | Unactivate |
-| **[ROS-Neural](https://github.com/osrf/gsoc-ros-neural)**| GSoC 2015, Open Source Robotics Foundation |Neural Interfaces for ROS/Gazebo project| Unactivate |
-| **[Industrial Painting](https://github.com/ros-industrial-attic/galileo)**|GSoC 2014, Open Source Robotics Foundation |Intuitive Tele-op For Industrial Painting| Unactivate|
+| **[Track Particles](https://github.com/stonescenter/track-ml)** |SPRACE Physics | Applying Machine Learning techiques for Track Particle reconstruction in the HEP | Completed |
+| **[ROS-Neural](https://github.com/osrf/gsoc-ros-neural)**| GSoC 2015, Open Source Robotics Foundation |Neural Interfaces for ROS/Gazebo project| Completed |
+| **[Industrial Painting](https://github.com/ros-industrial-attic/galileo)**|GSoC 2014, Open Source Robotics Foundation |Intuitive Tele-op For Industrial Painting| Completed|
